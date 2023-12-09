@@ -7,8 +7,8 @@ LiveLink: https://threadchat-f5e07.web.app
 
 
 # Website Features
-  __admin pannel
-  -user pannel
-  -user login system
-  -user can post update and delete their own posts
-  -user can like and comment to a post
+  - admin pannel
+  - user pannel
+  - user login system
+  - user can post update and delete their own posts
+  - user can like and comment to a post
