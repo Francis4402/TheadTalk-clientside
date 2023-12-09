@@ -98,7 +98,7 @@ const routes = createBrowserRouter([
             {
                 path: 'post/:id',
                 element: <PostDetails/>,
-                loader: async ({params}) => await fetch(`https://online-group-study-serverside-ctsz-francisms-projects.vercel.app/posts/${params.id}`),
+                loader: async ({params}) => await fetch(`https://thread-talk-backend-francisms-projects.vercel.app/posts/${params.id}`),
             },
             {
                 path: 'payment-history',
