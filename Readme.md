@@ -7,7 +7,7 @@ LiveLink: https://threadchat-f5e07.web.app
 
 
 # Website Features
-  --admin pannel
+  __admin pannel
   -user pannel
   -user login system
   -user can post update and delete their own posts
